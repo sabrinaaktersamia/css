@@ -1,0 +1,12 @@
+ 
+ #a{
+   line-height: 25px;
+   font-weight: bold;
+   color: azure;
+   text-align: center;
+   background-size: contain;
+   height: 700px;
+   width: 400px;
+   background-image: url('photo-1444464666168-49d633b86797.jpg');
+   background-repeat: no-repeat;
+ }
